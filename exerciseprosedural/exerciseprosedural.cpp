@@ -10,4 +10,9 @@ string status(double r, double n) {
 	else
 		return "ditolak";
 }
+int nilM[2], nilB[2];
+float nilRerata[2];
+string nama[2];
+
+
 
