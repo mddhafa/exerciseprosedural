@@ -48,4 +48,10 @@ void jmlhkandidat() {
 	cout << "jumlah kandidat ditolak" << endl;
 }
 
+int main() {
+	input();
+	display();
+	jmlhkandidat();
+	return 0;
+}
 
